@@ -20,3 +20,4 @@ Desktop.ini
 # node.js common ignores
 node_modules/
 npm-debug.log
+test-server.js
